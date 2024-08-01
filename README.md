@@ -3,41 +3,54 @@
 #### https://webcode.tools/ (All in One Tools)
 <br>
 
-## 1. Open Source Icons 🔍 :
+1. ## Open Source Icons 🔍 :
 - https://feathericons.com/
 - https://fontawesome.com/icons
+<br>
 
-## 2. Open Source UI Elements 🎨 :
+2. ## Fonts :
+- https://fonts.google.com/
+<br>
+  
+3. ## Open Source UI Elements 🎨 :
 - https://uiverse.io/ (Buttons, Togglers, Checkbox, Loaders, Inputs, Forms, Radio Buttons, Cards & Tooltips)
 - https://projects.lukehaas.me/css-loaders/ (Pure CSS Basic Spinners)
+<br>
 
-## 3. TailWind CSS :
+4. ## TailWind CSS :
 - https://nerdcave.com/tailwind-cheat-sheet (Cheat Sheet)
+<br>
 
-## 4. Portfolio Examples :
+5. ## Portfolio Examples :
 - https://scrimba.com/articles/web-developer-portfolio-inspiration/
 - https://www.rammaheshwari.com/
 - https://anniebombanie.com/
 - https://olaolu.dev/
+<br>
 
-## 5. Online IDE :
+6. ## Online IDE :
 - https://flems.io/
+<br>
 
-## 6. CSS Generators :
+7. ## CSS Generators :
 - https://generators.shecodes.io/ (Text Shadow, Gradient, Border, Color, Box Shadow, Image Filter & Transform)
 - https://cssgradient.io/gradient-backgrounds/  (All In One Gradient Sites)
 - https://animista.net/ (Animation Generator)
+<br>
 
-## 7. UI Generating AI :
+8. ## UI Generating AI :
 - https://openui.fly.dev/ai/new
+<br>
 
-## 8. Useful Blogs :
+9. ## Useful Blogs :
 - https://muazim.substack.com/
 - https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/ (Learn Stuff Quickly)
+<br>
 
-## JS Libraries :
+10. ## JS Libraries :
 - https://bootstrapbrain.com/parallax-javascript-libraries/ (Parallax)
 - https://www.larwind.com/assets/plugins/owl-carousel/index.html (Owl Caraousel - jQuery)
+<br>
 
-## Responsive Design :
+11. ## Responsive Design :
 - https://responsively.app/ (An app, where you can design the website all size at once)
