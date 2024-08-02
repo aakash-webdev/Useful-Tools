@@ -42,9 +42,10 @@
 - https://openui.fly.dev/ai/new
 <br>
 
-9. ## Useful Blogs :
+9. ## Useful Blogs & Books :
 - https://muazim.substack.com/
 - https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/ (Learn Stuff Quickly)
+- https://www.collegesidekick.com/study-docs/7389516 (Javascript In Less Than 50 Pages)
 <br>
 
 10. ## JS Libraries :
