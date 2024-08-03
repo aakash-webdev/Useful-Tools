@@ -54,4 +54,4 @@
 <br>
 
 11. ## Responsive Design :
-- https://responsively.app/ (An app, where you can design the website all size at once)
+- https://responsively.app/ (An app, where you can inspect the website all size at once)
