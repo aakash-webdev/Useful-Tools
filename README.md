@@ -3,9 +3,12 @@
 #### https://webcode.tools/ (All in One Tools)
 <br>
 
-1. ## Open Source Icons 🔍 :
+1. ## Open Source Icons & Illustrations 🔍 :
 - https://feathericons.com/
 - https://fontawesome.com/icons
+- https://pixels.market/
+- https://undraw.co/illustrations
+- https://iradesign.io/gallery/illustrations
 <br>
 
 2. ## Fonts :
