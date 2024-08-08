@@ -54,6 +54,7 @@
 10. ## JS Libraries :
 - https://bootstrapbrain.com/parallax-javascript-libraries/ (Parallax)
 - https://www.larwind.com/assets/plugins/owl-carousel/index.html (Owl Caraousel - jQuery)
+- https://github.com/camwiegert/baffle (Text Reveal Effect)
 <br>
 
 11. ## Responsive Design :
