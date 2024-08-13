@@ -49,6 +49,7 @@
 - https://muazim.substack.com/
 - https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/ (Learn Stuff Quickly)
 - https://www.collegesidekick.com/study-docs/7389516 (Javascript In Less Than 50 Pages)
+- https://www.geeksforgeeks.org/top-javascript-projects/ (80 JS Projects with source code)
 <br>
 
 10. ## JS Libraries :
@@ -60,6 +61,7 @@
 
 11. ## Responsive Design :
 - https://responsively.app/ (An app, where you can inspect the website all size at once)
+<br>
 
 12. ## Resume Builder :
 - https://rxresu.me/
