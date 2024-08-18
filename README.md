@@ -66,6 +66,7 @@
 11. ## Cheatsheets :
 - https://quickref.me/ (All in One)
 - https://nerdcave.com/tailwind-cheat-sheet (Tailwind Cheat Sheet)
+<br>
 
 12. ## Front-End Projects:
 - https://www.frontendpractice.com/
