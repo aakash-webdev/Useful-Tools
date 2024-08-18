@@ -9,6 +9,7 @@
 - https://pixels.market/
 - https://undraw.co/illustrations
 - https://iradesign.io/gallery/illustrations
+- https://boxicons.com/
 <br>
 
 2. ## Fonts :
