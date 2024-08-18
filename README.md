@@ -56,6 +56,7 @@
 - https://www.larwind.com/assets/plugins/owl-carousel/index.html (Owl Caraousel - jQuery)
 - https://github.com/camwiegert/baffle (Text Reveal Effect)
 - https://scrollrevealjs.org/ (Reveal on Scroll)
+- https://wowjs.uk/ (Reveal on Scroll)
 <br>
 
 10. ## Responsive Design :
